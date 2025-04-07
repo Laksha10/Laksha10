@@ -16,12 +16,13 @@ I'm currently diving deep into software development and machine learning, while 
 
 ---
 
-### 📫 Want to know more?
+### 📫 Contact
 
-Check out my full profile → [github.com/Laksha10](https://github.com/Laksha10)  
-Or feel free to connect with me on LinkedIn!
+- GitHub: [github.com/Laksha10](https://github.com/Laksha10)  
+- Email: lsingla_be23@thapar.edu
 
 Thanks for visiting 😊
+
 
 <!---
 Laksha10/Laksha10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
