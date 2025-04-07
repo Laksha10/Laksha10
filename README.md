@@ -1,15 +1,27 @@
-# Hi, I'm Laksha 👋  
+# Hi there 👋 I'm Laksha
 
-Welcome to my GitHub! I'm a **tech enthusiast** with a keen interest in **coding, content writing, and oration**. Currently, I'm deepening my understanding of **data structures** while exploring innovative projects.  
+Welcome to my GitHub! If you're here from my resume — great to have you.
 
-## 🚀 What I Do  
-- Passionate about **problem-solving and software development**  
-- Experienced in **content creation and effective communication**  
-- Always open to **collaborating on impactful projects**  
+I'm currently diving deep into software development and machine learning, while also working on end-to-end projects that bring real-world systems to life. Here are some of the things I’ve been building:
 
-## 📬 Get in Touch  
-- 📧 Email: [lsingla_be23@thapar.edu](mailto:lsingla_be23@thapar.edu)  
-- 💡 Let's connect and build something great!  
+---
+
+### 🔍 Featured Projects
+
+- 🧠 [Handwritten Digit Recognition](https://github.com/Laksha10/Handwritten-Digit-Recognition)  
+  A machine learning model that classifies handwritten digits using neural networks. Built using Python, NumPy, and TensorFlow.
+
+- 🚉 [Railway Management System](https://github.com/Laksha10/Railway-Management-System)  
+  A DBMS-based project developed using SQL and PL/SQL. Currently under development — will be expanded into a fully deployed, end-to-end system over the summer.
+
+---
+
+### 📫 Want to know more?
+
+Check out my full profile → [github.com/Laksha10](https://github.com/Laksha10)  
+Or feel free to connect with me on LinkedIn!
+
+Thanks for visiting 😊
 
 <!---
 Laksha10/Laksha10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
