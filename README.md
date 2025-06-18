@@ -14,6 +14,10 @@ I'm currently diving deep into software development and machine learning, while 
 - 🚉 [Railway Management System](https://github.com/Laksha10/Railway-Management-System)  
   A DBMS-based project developed using SQL and PL/SQL. Currently under development — will be expanded into a fully deployed, end-to-end system over the summer.
 
+- 🧭 [AI-Based Career Recommendation Model](https://github.com/Laksha10/Career-Recommendation-AI)
+  An ML-powered model that suggests career paths based on user inputs like interests and skills. Designed to aid students and early professionals in making informed decisions.
+  
+
 ---
 
 ### 📫 Contact
