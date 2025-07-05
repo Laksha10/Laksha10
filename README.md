@@ -8,7 +8,7 @@ I'm currently diving deep into software development and machine learning, while 
 
 ### 🔍 Featured Projects
 
-- 🕊️ [SoulScribe – Emotional Journaling App](https://github.com/Laksha10/SoulScribe) 
+- 🕊️ [SoulScribe – Emotional Journaling App](https://github.com/Laksha10/SoulScribe)
   An interactive journaling platform built with Streamlit and Flask that analyzes user emotions using NLP. Stores entries in a Supabase PostgreSQL database and responds with supportive, emotion-aware messages.
 
 - 🧠 [Handwritten Digit Recognition](https://github.com/Laksha10/Handwritten-Digit-Recognition)  
