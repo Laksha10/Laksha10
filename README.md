@@ -12,7 +12,7 @@ I'm currently diving deep into **software development** and **machine learning**
   A privacy-first journaling platform powered by **RoBERTa-based emotion classification** and an **LLM-based companion system**.  
   Built with **Flask**, **PostgreSQL**, **Streamlit**, and **Transformers**, it tracks emotional arcs, triggers red-zone alerts, and offers supportive context-aware responses.
 
-- ## ✋ Aura Flo — Gesture-Based Feedback Logger *(Raspberry Pi)*
+- ## ✋ [Aura Flo — Gesture-Based Feedback Logger *(Raspberry Pi)](https://github.com/Laksha10/Gesture-Based-Feedback-Logger-Aura-Flo)
   Built a gesture-triggered feedback system for wellness sessions using **pose detection (MediaPipe)** and **offline transcription (Whisper-Tiny)**.  
   Logs physical and emotional feedback with **sentiment tagging (VADER)** and contextual metadata to power personalized health summaries and red-zone alerts under resource-constrained settings.
 
