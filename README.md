@@ -16,9 +16,6 @@ Integrates **Socket.io** for instant notifications and a **Python NLP microservi
 An end-to-end **multi-modal RAG system** that transforms large, unstructured PDF datasets into structured insights and narrated podcast-style audio content.  
 Built using **Gemini**, **RAG pipelines**, **Azure Text-to-Speech**, **Docker**, and **Python**.
 
-- Architected a **multi-modal RAG pipeline** leveraging Gemini to cross-reference disparate PDFs and extract high-fidelity, context-aware analytical summaries.
-- Orchestrated an **asynchronous audio synthesis engine** that converts insights into multi-speaker podcast scripts, producing scalable, studio-quality audio logs using Azure TTS and Docker.
-
 ---
 
 ### ✋ [Aura Flo — Gesture-Based Feedback Logger (Raspberry Pi)](https://github.com/Laksha10/Gesture-Based-Feedback-Logger-Aura-Flo)
