@@ -18,10 +18,9 @@ Built using **Gemini**, **RAG pipelines**, **Azure Text-to-Speech**, **Docker**,
 
 ---
 
-### ✋ [Aura Flo — Gesture-Based Feedback Logger (Raspberry Pi)](https://github.com/Laksha10/Gesture-Based-Feedback-Logger-Aura-Flo)
-A gesture-triggered feedback system for wellness sessions using **pose detection (MediaPipe)** and **offline transcription (Whisper-Tiny)**.  
-Logs physical and emotional feedback with **sentiment tagging (VADER)** and contextual metadata to generate personalized health summaries and red-zone alerts under resource-constrained environments.
-
+### 🧘 [AuraFlo — Real-Time Yoga Pose Feedback (Raspberry Pi target)](https://github.com/Laksha10/AuraFlo)
+A real-time yoga coaching pipeline built on **MediaPipe BlazePose**. It turns 33 body landmarks into joint angles, checks them against **JSON pose profiles**, and gives one-at-a-time corrections, largest error first.  
+After an unbroken **10-second hold**, an **event-driven check-in** asks how the pose feels. **Whisper-Tiny** transcribes the answer offline, **VADER** reads its sentiment, and a **deterministic state machine** swaps in an easier, harder or rest pose. Every session is logged to **SQLite**, and everything runs on CPU-only, low-power hardware.
 ---
 
 ### 🚉 [Railway Management System](https://github.com/Laksha10/Railway-Management-System)
